@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelaPrincipal", "TelaPrincipal\TelaPrincipal.csproj", "{784F87FB-3939-498E-A955-5FB5EB8551CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{784F87FB-3939-498E-A955-5FB5EB8551CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{784F87FB-3939-498E-A955-5FB5EB8551CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{784F87FB-3939-498E-A955-5FB5EB8551CA}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{784F87FB-3939-498E-A955-5FB5EB8551CA}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{784F87FB-3939-498E-A955-5FB5EB8551CA}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{784F87FB-3939-498E-A955-5FB5EB8551CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{784F87FB-3939-498E-A955-5FB5EB8551CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{784F87FB-3939-498E-A955-5FB5EB8551CA}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{784F87FB-3939-498E-A955-5FB5EB8551CA}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{784F87FB-3939-498E-A955-5FB5EB8551CA}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
